@@ -1,6 +1,6 @@
 # CodePhiller: LoRA-Based Fine-Tuned Phi-3 Model for AI Inline Code Completions
 CodePhiller is a basic (barely working) AI code completion tool based on a LoRA fine-tuned Phi-3 model. It provides real-time inline code suggestions as you type. Essentially a co-pilot clone but just from scratch.
-
+![alt text](image.png)
 Project Structure
 This repository consists of several components, each responsible for a different aspect of the system:
 
